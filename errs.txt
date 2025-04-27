@@ -1,0 +1,20 @@
+Ошибка Thu Mar 13 15:41:13 2025: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Ошибка Thu Mar 13 15:50:34 2025: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Ошибка Thu Mar 13 20:02:10 2025: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Ошибка Thu Mar 13 20:02:20 2025: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot6577109987:AAGGJxB3By6OjaA61eEA9Kpmayx2qeQaOnQ/getUpdates?offset=1&timeout=20 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001EB4C67F9D0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+Ошибка Thu Mar 13 20:43:05 2025: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Error Fri Mar 21 05:49:49 2025lucks() missing 1 required positional argument: 'sum2'Error Fri Mar 21 06:22:50 2025 A request to the Telegram API was unsuccessful. Error code: 401. Description: UnauthorizedError Fri Mar 21 06:23:00 2025 A request to the Telegram API was unsuccessful. Error code: 401. Description: UnauthorizedError Fri Mar 21 06:23:10 2025 A request to the Telegram API was unsuccessful. Error code: 401. Description: UnauthorizedError Fri Mar 21 06:23:20 2025 A request to the Telegram API was unsuccessful. Error code: 401. Description: UnauthorizedError Fri Mar 21 06:23:57 2025 A request to the Telegram API was unsuccessful. Error code: 401. Description: UnauthorizedError Fri Mar 21 06:24:07 2025 A request to the Telegram API was unsuccessful. Error code: 401. Description: UnauthorizedError Fri Mar 21 06:24:17 2025 A request to the Telegram API was unsuccessful. Error code: 401. Description: UnauthorizedError Fri Mar 21 06:25:18 2025 unsupported operand type(s) for -: 'str' and 'int'Error Fri Mar 21 06:27:40 2025 unsupported operand type(s) for -: 'str' and 'int'Error Sat Mar 22 19:49:43 2025 '<=' not supported between instances of 'int' and 'str'Error Sat Mar 22 20:00:02 2025 HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)Error Sat Mar 22 20:13:39 2025 HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)Error Sat Mar 22 20:18:12 2025 invalid literal for int() with base 10: '1000000000000119.0'Error Mon Mar 24 06:42:14 2025 unsupported operand type(s) for -: 'int' and 'str'Error Mon Mar 24 06:50:03 2025 'str' object cannot be interpreted as an integerError Tue Mar 25 06:12:25 2025 too many values to unpack (expected 6)
+Error Tue Mar 25 06:13:13 2025 too many values to unpack (expected 6)
+Error Tue Mar 25 06:13:23 2025 too many values to unpack (expected 6)
+Error Fri Mar 28 05:48:52 2025 too many values to unpack (expected 6)
+Error Fri Mar 28 05:51:33 2025 'str' object has no attribute 'from_user'
+Error Fri Mar 28 05:52:10 2025 'str' object has no attribute 'from_user'
+Error Fri Mar 28 05:52:20 2025 'str' object has no attribute 'from_user'
+Error Fri Mar 28 05:52:52 2025 'str' object has no attribute 'message'
+Error Fri Mar 28 05:53:02 2025 'str' object has no attribute 'message'
+Error Wed Apr  2 21:21:38 2025 replace() takes at most 3 arguments (79 given)
+Error Wed Apr  2 21:26:37 2025 str expected at most 3 arguments, got 40
+Error Wed Apr  2 21:29:33 2025 unsupported operand type(s) for +: 'int' and 'str'
+Error Wed Apr  2 21:30:15 2025 unsupported operand type(s) for +: 'int' and 'str'
+Error Wed Apr  9 06:24:41 2025 'in <string>' requires string as left operand, not int
+Error Wed Apr  9 06:24:53 2025 'in <string>' requires string as left operand, not int
