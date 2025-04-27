@@ -39,9 +39,9 @@ def checkReg(mess):
         bot.send_message(mess.chat.id,"Сначала зарегистрируйтесь. Нажмите /reg")
         f.close()
         return 0,"None",log,"no"
-bot=telebot.TeleBot('6642421516:AAGXqsEfdQLhQz09duztg9RR1Gt1yZS6ezk')
+bot=telebot.TeleBot('MyIpTocken')
 while True:
-    #try:
+    try:
         @bot.message_handler(commands=['start'])
         def firstText(mess):
             bot.reply_to(mess,"Приветствуем вас в нашем боте! Извините пока не все функции бота работают.")
@@ -916,8 +916,8 @@ while True:
                         with open ('dataTelCas.txt', 'w') as a:
                             a.write(new_data)
         bot.polling(none_stop=True,interval=0)
-    #except Exception as e:
-    #    time.sleep(10)
-    #   print(f"Error {e}")
-    #   with open('errs.txt','a+') as ff:
-    #      ff.write("Error "+time.asctime()+" "+str(e)+"\n")
+    except Exception as e:
+       time.sleep(10)
+       print(f"Error {e}")
+       with open('errs.txt','a+') as ff:
+          ff.write("Error "+time.asctime()+" "+str(e)+"\n")
